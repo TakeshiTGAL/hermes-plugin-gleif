@@ -1,0 +1,19 @@
+name: gleif
+version: 0.1.0
+manifest_version: 2
+requires_hermes: ">=0.21.4"
+description: >
+  LEI Record reads one LEI or legal name from the public GLEIF API.
+  Tools are lei_lookup, lei_parents, lei_children, lei_search, and lei_isin.
+author: TakeshiTGAL
+license: MIT
+homepage: https://github.com/TakeshiTGAL/hermes-plugin-gleif
+tags: [lei, gleif, legal-entity, isin]
+python_dependencies: []
+platforms: []
+provides_tools:
+  - lei_lookup
+  - lei_parents
+  - lei_children
+  - lei_search
+  - lei_isin

@@ -1,0 +1,10 @@
+LEI Record reads the public API at api.gleif.org.
+
+LEI records from that API are published under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+The source code in this repository is MIT. See LICENSE.
+
+This plugin is a separate reader of api.gleif.org. It does not use the GLEIF trademark or logo. The catalog draft prints the plugin name gleif. It does not reproduce the GLEIF logo or wordmark.
+The LEI data terms of use are published at https://www.gleif.org/en/meta/lei-data-terms-of-use/
+The data is provided AS IS under those terms, and Swiss law governs the terms.
